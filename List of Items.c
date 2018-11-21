@@ -1,3 +1,8 @@
+/*This program allows user to create, manipulate and view a list of items as inventory for a store. Each item has its own id number, name, price and the
+number of that specific item available in the store. */
+
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
